@@ -1,0 +1,26 @@
+# IntelliJ IDEA
+/.idea
+*.iml
+*.iws
+out/
+
+# Gradle
+.gradle/
+/app/.gradle/
+/app/build/
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+*~
+
+# ОС-специфичное
+.DS_Store
+Thumbs.db
+
+# Скрипты (если нужно)
+*.bat
+*.sh
