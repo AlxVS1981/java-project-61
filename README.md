@@ -12,3 +12,5 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AlxVS1981_java-project-61&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=AlxVS1981_java-project-61)
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/AlxVS1981/java-project-61/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AlxVS1981/java-project-61/actions)
+### Demo (Even game)
+https://asciinema.org/a/BXPqEytjYVLXLj4t
